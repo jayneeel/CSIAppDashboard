@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "562423189991",
+    "firebase_url": "https://csi-dmce-c6f11-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "csi-dmce-c6f11",
+    "storage_bucket": "csi-dmce-c6f11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562423189991:android:64d9ebd2d23b8e48832d42",
+        "android_client_info": {
+          "package_name": "com.example.csi_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562423189991-5vsm236gr33gnmnn9mojsj14a79frsl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2EgwHY79cUBo4Rj7IvRvQShpGgXWKWtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562423189991-5vsm236gr33gnmnn9mojsj14a79frsl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562423189991:android:3b90442748244932832d42",
+        "android_client_info": {
+          "package_name": "com.example.csi_dmce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562423189991-5vsm236gr33gnmnn9mojsj14a79frsl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2EgwHY79cUBo4Rj7IvRvQShpGgXWKWtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562423189991-5vsm236gr33gnmnn9mojsj14a79frsl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562423189991:android:02560665c736f745832d42",
+        "android_client_info": {
+          "package_name": "com.example.csiappdashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562423189991-5vsm236gr33gnmnn9mojsj14a79frsl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2EgwHY79cUBo4Rj7IvRvQShpGgXWKWtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562423189991-5vsm236gr33gnmnn9mojsj14a79frsl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
